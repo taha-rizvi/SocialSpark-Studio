@@ -9,9 +9,9 @@ def generate_dates(start_date, num_dates):
 
 # Simulate the dataset
 post_types = ['Carousel', 'Reels', 'Static Image']
-user_types = ['Celebrity', 'Normal User']
+user_types = ['Popular', 'Unpopular']
 content_quality = ['High-Quality', 'Average']
-num_posts = 100  # Number of posts
+num_posts = 1000  # Number of posts
 
 data = []
 start_date = datetime(2025, 1, 1)
@@ -36,8 +36,8 @@ for i in range(num_posts):
         comments = random.randint(20, 80)
     
     # Adjustments for user type and content quality
-    if user_type == 'Celebrity':
-        likes = int(likes * 1.5)  # Celebrities typically get more likes
+    if user_type == 'Popular':
+        likes = int(likes * 1.5)  # Popular users typically get more likes
         shares = int(shares * 1.2)  # Slightly more shares
         comments = int(comments * 1.3)  # Higher comments
     if quality == 'High-Quality':

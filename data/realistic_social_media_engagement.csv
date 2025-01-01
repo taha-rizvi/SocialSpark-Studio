@@ -1,101 +1,1001 @@
 Post ID,Post Type,User Type,Content Quality,Likes,Shares,Comments,Date,Engagement
-1,Static Image,Celebrity,High-Quality,191,75,94,2025-01-01,360
-2,Static Image,Normal User,Average,102,26,41,2025-01-02,169
-3,Static Image,Normal User,High-Quality,169,66,69,2025-01-03,304
-4,Carousel,Celebrity,Average,1134,88,245,2025-01-04,1467
-5,Carousel,Celebrity,Average,465,78,228,2025-01-05,771
-6,Carousel,Celebrity,Average,1156,62,174,2025-01-06,1392
-7,Static Image,Normal User,Average,117,39,48,2025-01-07,204
-8,Static Image,Celebrity,High-Quality,253,37,60,2025-01-08,350
-9,Reels,Celebrity,Average,481,104,237,2025-01-09,822
-10,Carousel,Normal User,Average,670,111,106,2025-01-10,887
-11,Static Image,Celebrity,High-Quality,374,72,52,2025-01-11,498
-12,Static Image,Normal User,Average,131,48,39,2025-01-12,218
-13,Static Image,Celebrity,High-Quality,288,40,70,2025-01-13,398
-14,Reels,Celebrity,High-Quality,596,208,403,2025-01-14,1207
-15,Carousel,Celebrity,High-Quality,590,240,361,2025-01-15,1191
-16,Static Image,Celebrity,High-Quality,374,31,97,2025-01-16,502
-17,Reels,Normal User,High-Quality,482,94,278,2025-01-17,854
-18,Carousel,Normal User,High-Quality,790,147,247,2025-01-18,1184
-19,Reels,Celebrity,Average,867,138,248,2025-01-19,1253
-20,Static Image,Celebrity,Average,222,42,59,2025-01-20,323
-21,Static Image,Celebrity,High-Quality,340,75,75,2025-01-21,490
-22,Carousel,Normal User,Average,426,119,157,2025-01-22,702
-23,Carousel,Normal User,High-Quality,451,148,190,2025-01-23,789
-24,Reels,Normal User,Average,302,101,187,2025-01-24,590
-25,Carousel,Normal User,High-Quality,774,91,292,2025-01-25,1157
-26,Static Image,Normal User,Average,135,30,29,2025-01-26,194
-27,Reels,Normal User,Average,446,85,293,2025-01-27,824
-28,Carousel,Normal User,High-Quality,877,190,211,2025-01-28,1278
-29,Carousel,Normal User,Average,553,128,113,2025-01-29,794
-30,Carousel,Celebrity,High-Quality,1552,109,234,2025-01-30,1895
-31,Static Image,Celebrity,Average,108,20,35,2025-01-31,163
-32,Carousel,Normal User,Average,575,83,211,2025-02-01,869
-33,Reels,Normal User,High-Quality,647,88,330,2025-02-02,1065
-34,Reels,Celebrity,Average,762,79,292,2025-02-03,1133
-35,Carousel,Celebrity,Average,741,141,314,2025-02-04,1196
-36,Reels,Normal User,Average,323,102,192,2025-02-05,617
-37,Static Image,Celebrity,High-Quality,347,84,84,2025-02-06,515
-38,Reels,Normal User,Average,228,94,188,2025-02-07,510
-39,Static Image,Celebrity,Average,144,18,76,2025-02-08,238
-40,Static Image,Normal User,Average,93,24,62,2025-02-09,179
-41,Carousel,Normal User,High-Quality,868,162,126,2025-02-10,1156
-42,Static Image,Celebrity,Average,222,32,48,2025-02-11,302
-43,Carousel,Celebrity,High-Quality,811,112,169,2025-02-12,1092
-44,Reels,Celebrity,High-Quality,780,156,397,2025-02-13,1333
-45,Static Image,Normal User,Average,176,30,45,2025-02-14,251
-46,Carousel,Normal User,Average,318,93,196,2025-02-15,607
-47,Carousel,Normal User,High-Quality,625,136,249,2025-02-16,1010
-48,Reels,Celebrity,Average,438,105,305,2025-02-17,848
-49,Carousel,Celebrity,Average,549,75,300,2025-02-18,924
-50,Carousel,Normal User,High-Quality,540,102,230,2025-02-19,872
-51,Static Image,Celebrity,Average,142,24,52,2025-02-20,218
-52,Carousel,Celebrity,Average,822,69,253,2025-02-21,1144
-53,Static Image,Normal User,High-Quality,204,40,81,2025-02-22,325
-54,Reels,Normal User,High-Quality,434,168,190,2025-02-23,792
-55,Static Image,Celebrity,High-Quality,317,36,120,2025-02-24,473
-56,Reels,Normal User,High-Quality,614,166,351,2025-02-25,1131
-57,Carousel,Normal User,High-Quality,588,196,218,2025-02-26,1002
-58,Static Image,Celebrity,Average,175,26,40,2025-02-27,241
-59,Static Image,Normal User,High-Quality,180,49,62,2025-02-28,291
-60,Static Image,Normal User,Average,183,33,66,2025-03-01,282
-61,Static Image,Celebrity,Average,228,50,101,2025-03-02,379
-62,Reels,Celebrity,Average,462,111,366,2025-03-03,939
-63,Static Image,Normal User,High-Quality,182,16,60,2025-03-04,258
-64,Carousel,Normal User,High-Quality,821,87,224,2025-03-05,1132
-65,Carousel,Celebrity,High-Quality,1497,159,261,2025-03-06,1917
-66,Static Image,Celebrity,Average,181,50,92,2025-03-07,323
-67,Reels,Celebrity,Average,802,118,224,2025-03-08,1144
-68,Static Image,Normal User,Average,85,44,63,2025-03-09,192
-69,Static Image,Celebrity,High-Quality,274,49,102,2025-03-10,425
-70,Reels,Normal User,High-Quality,759,96,250,2025-03-11,1105
-71,Carousel,Celebrity,High-Quality,777,186,378,2025-03-12,1341
-72,Carousel,Normal User,Average,553,117,211,2025-03-13,881
-73,Static Image,Celebrity,High-Quality,339,46,69,2025-03-14,454
-74,Static Image,Normal User,Average,74,32,64,2025-03-15,170
-75,Static Image,Celebrity,Average,202,60,61,2025-03-16,323
-76,Reels,Celebrity,High-Quality,397,120,291,2025-03-17,808
-77,Reels,Celebrity,High-Quality,551,100,327,2025-03-18,978
-78,Reels,Normal User,Average,404,88,240,2025-03-19,732
-79,Carousel,Normal User,Average,518,74,206,2025-03-20,798
-80,Carousel,Normal User,Average,470,79,111,2025-03-21,660
-81,Static Image,Celebrity,Average,274,16,53,2025-03-22,343
-82,Carousel,Celebrity,High-Quality,741,96,333,2025-03-23,1170
-83,Static Image,Normal User,High-Quality,88,51,84,2025-03-24,223
-84,Reels,Celebrity,Average,468,141,276,2025-03-25,885
-85,Reels,Normal User,High-Quality,527,108,262,2025-03-26,897
-86,Reels,Normal User,Average,357,104,260,2025-03-27,721
-87,Carousel,Celebrity,Average,592,75,163,2025-03-28,830
-88,Reels,Celebrity,Average,610,70,387,2025-03-29,1067
-89,Reels,Normal User,Average,407,73,273,2025-03-30,753
-90,Static Image,Celebrity,Average,228,15,71,2025-03-31,314
-91,Reels,Normal User,High-Quality,742,172,248,2025-04-01,1162
-92,Reels,Normal User,High-Quality,715,73,211,2025-04-02,999
-93,Carousel,Normal User,Average,435,104,123,2025-04-03,662
-94,Carousel,Normal User,High-Quality,413,177,144,2025-04-04,734
-95,Carousel,Normal User,High-Quality,488,94,220,2025-04-05,802
-96,Reels,Celebrity,High-Quality,1092,81,423,2025-04-06,1596
-97,Static Image,Celebrity,High-Quality,165,63,81,2025-04-07,309
-98,Reels,Celebrity,Average,771,62,341,2025-04-08,1174
-99,Static Image,Celebrity,High-Quality,218,64,66,2025-04-09,348
-100,Reels,Normal User,Average,257,78,223,2025-04-10,558
+1,Carousel,Popular,High-Quality,777,147,300,2025-01-01,1224
+2,Static Image,Popular,Average,256,42,102,2025-01-02,400
+3,Reels,Popular,High-Quality,912,157,345,2025-01-03,1414
+4,Carousel,Unpopular,Average,788,88,156,2025-01-04,1032
+5,Static Image,Popular,High-Quality,210,45,43,2025-01-05,298
+6,Carousel,Popular,High-Quality,928,90,216,2025-01-06,1234
+7,Reels,Unpopular,High-Quality,369,102,255,2025-01-07,726
+8,Static Image,Unpopular,Average,134,41,61,2025-01-08,236
+9,Static Image,Unpopular,Average,70,13,70,2025-01-09,153
+10,Carousel,Popular,High-Quality,1436,234,261,2025-01-10,1931
+11,Carousel,Popular,High-Quality,1170,135,356,2025-01-11,1661
+12,Reels,Popular,Average,445,144,313,2025-01-12,902
+13,Reels,Unpopular,Average,224,69,242,2025-01-13,535
+14,Reels,Unpopular,High-Quality,271,180,319,2025-01-14,770
+15,Reels,Unpopular,High-Quality,687,121,345,2025-01-15,1153
+16,Carousel,Unpopular,High-Quality,917,111,214,2025-01-16,1242
+17,Reels,Popular,Average,813,110,237,2025-01-17,1160
+18,Static Image,Popular,High-Quality,289,64,86,2025-01-18,439
+19,Static Image,Popular,Average,139,46,45,2025-01-19,230
+20,Static Image,Unpopular,Average,56,30,42,2025-01-20,128
+21,Carousel,Unpopular,Average,577,57,158,2025-01-21,792
+22,Static Image,Unpopular,High-Quality,213,22,90,2025-01-22,325
+23,Static Image,Popular,Average,168,54,33,2025-01-23,255
+24,Reels,Unpopular,High-Quality,369,72,337,2025-01-24,778
+25,Static Image,Unpopular,Average,99,27,30,2025-01-25,156
+26,Static Image,Unpopular,Average,199,11,79,2025-01-26,289
+27,Reels,Unpopular,Average,451,64,242,2025-01-27,757
+28,Static Image,Popular,High-Quality,351,60,99,2025-01-28,510
+29,Static Image,Popular,Average,172,57,80,2025-01-29,309
+30,Static Image,Popular,High-Quality,270,76,120,2025-01-30,466
+31,Reels,Popular,Average,784,81,275,2025-01-31,1140
+32,Static Image,Popular,Average,172,33,91,2025-02-01,296
+33,Carousel,Unpopular,High-Quality,643,129,276,2025-02-02,1048
+34,Carousel,Popular,Average,1017,180,289,2025-02-03,1486
+35,Carousel,Popular,High-Quality,1272,123,325,2025-02-04,1720
+36,Static Image,Popular,Average,300,24,68,2025-02-05,392
+37,Carousel,Popular,High-Quality,1306,150,360,2025-02-06,1816
+38,Reels,Unpopular,Average,560,102,257,2025-02-07,919
+39,Carousel,Popular,Average,1159,88,288,2025-02-08,1535
+40,Carousel,Popular,Average,565,139,313,2025-02-09,1017
+41,Static Image,Unpopular,Average,168,46,20,2025-02-10,234
+42,Static Image,Unpopular,High-Quality,224,16,49,2025-02-11,289
+43,Static Image,Unpopular,Average,100,39,78,2025-02-12,217
+44,Carousel,Popular,High-Quality,1229,186,314,2025-02-13,1729
+45,Reels,Popular,High-Quality,964,82,278,2025-02-14,1324
+46,Reels,Popular,Average,460,133,289,2025-02-15,882
+47,Reels,Unpopular,Average,224,43,272,2025-02-16,539
+48,Static Image,Unpopular,High-Quality,227,40,26,2025-02-17,293
+49,Static Image,Popular,Average,184,57,93,2025-02-18,334
+50,Carousel,Popular,High-Quality,1267,139,355,2025-02-19,1761
+51,Carousel,Popular,High-Quality,1054,93,168,2025-02-20,1315
+52,Reels,Unpopular,Average,376,96,283,2025-02-21,755
+53,Reels,Popular,Average,637,97,211,2025-02-22,945
+54,Static Image,Popular,High-Quality,153,85,104,2025-02-23,342
+55,Carousel,Unpopular,High-Quality,774,120,225,2025-02-24,1119
+56,Carousel,Unpopular,High-Quality,631,202,120,2025-02-25,953
+57,Carousel,Popular,High-Quality,910,159,345,2025-02-26,1414
+58,Static Image,Unpopular,Average,77,49,22,2025-02-27,148
+59,Carousel,Popular,High-Quality,1205,165,256,2025-02-28,1626
+60,Reels,Popular,High-Quality,1150,210,234,2025-03-01,1594
+61,Reels,Popular,Average,652,138,237,2025-03-02,1027
+62,Reels,Popular,High-Quality,395,183,336,2025-03-03,914
+63,Static Image,Popular,High-Quality,126,42,121,2025-03-04,289
+64,Static Image,Unpopular,Average,159,24,71,2025-03-05,254
+65,Reels,Unpopular,High-Quality,677,72,270,2025-03-06,1019
+66,Carousel,Popular,Average,517,80,161,2025-03-07,758
+67,Static Image,Popular,High-Quality,122,18,96,2025-03-08,236
+68,Carousel,Unpopular,Average,539,65,239,2025-03-09,843
+69,Reels,Unpopular,Average,371,116,290,2025-03-10,777
+70,Static Image,Popular,High-Quality,379,66,49,2025-03-11,494
+71,Carousel,Unpopular,Average,676,129,128,2025-03-12,933
+72,Static Image,Popular,High-Quality,110,21,42,2025-03-13,173
+73,Static Image,Unpopular,High-Quality,144,57,48,2025-03-14,249
+74,Carousel,Popular,High-Quality,1545,118,302,2025-03-15,1965
+75,Static Image,Unpopular,Average,84,35,33,2025-03-16,152
+76,Carousel,Popular,Average,1056,178,309,2025-03-17,1543
+77,Reels,Unpopular,Average,449,105,164,2025-03-18,718
+78,Static Image,Unpopular,Average,104,42,41,2025-03-19,187
+79,Carousel,Popular,High-Quality,1463,93,189,2025-03-20,1745
+80,Reels,Popular,High-Quality,1058,114,328,2025-03-21,1500
+81,Carousel,Unpopular,Average,787,113,213,2025-03-22,1113
+82,Reels,Unpopular,High-Quality,692,148,328,2025-03-23,1168
+83,Reels,Unpopular,Average,523,109,192,2025-03-24,824
+84,Reels,Unpopular,Average,325,41,299,2025-03-25,665
+85,Carousel,Popular,Average,1048,100,267,2025-03-26,1415
+86,Static Image,Popular,High-Quality,237,73,90,2025-03-27,400
+87,Static Image,Unpopular,High-Quality,93,30,58,2025-03-28,181
+88,Static Image,Unpopular,High-Quality,144,60,92,2025-03-29,296
+89,Carousel,Unpopular,High-Quality,877,115,226,2025-03-30,1218
+90,Carousel,Unpopular,High-Quality,609,171,267,2025-03-31,1047
+91,Static Image,Unpopular,Average,198,41,50,2025-04-01,289
+92,Reels,Unpopular,Average,461,114,210,2025-04-02,785
+93,Reels,Popular,High-Quality,535,168,375,2025-04-03,1078
+94,Reels,Unpopular,Average,221,74,162,2025-04-04,457
+95,Reels,Popular,Average,592,126,379,2025-04-05,1097
+96,Static Image,Unpopular,High-Quality,124,63,45,2025-04-06,232
+97,Carousel,Unpopular,Average,732,91,188,2025-04-07,1011
+98,Carousel,Unpopular,Average,633,70,186,2025-04-08,889
+99,Carousel,Popular,High-Quality,1198,135,230,2025-04-09,1563
+100,Reels,Popular,High-Quality,978,174,412,2025-04-10,1564
+101,Reels,Unpopular,High-Quality,764,121,342,2025-04-11,1227
+102,Static Image,Unpopular,Average,160,34,25,2025-04-12,219
+103,Static Image,Popular,Average,235,19,76,2025-04-13,330
+104,Static Image,Unpopular,High-Quality,166,58,94,2025-04-14,318
+105,Static Image,Unpopular,High-Quality,234,70,57,2025-04-15,361
+106,Static Image,Popular,Average,265,40,65,2025-04-16,370
+107,Static Image,Unpopular,High-Quality,248,45,31,2025-04-17,324
+108,Carousel,Popular,Average,963,86,291,2025-04-18,1340
+109,Static Image,Unpopular,High-Quality,145,34,92,2025-04-19,271
+110,Reels,Popular,Average,670,91,305,2025-04-20,1066
+111,Carousel,Unpopular,Average,719,50,161,2025-04-21,930
+112,Carousel,Unpopular,High-Quality,904,166,183,2025-04-22,1253
+113,Carousel,Unpopular,High-Quality,995,96,207,2025-04-23,1298
+114,Static Image,Unpopular,High-Quality,231,30,46,2025-04-24,307
+115,Static Image,Unpopular,High-Quality,140,63,75,2025-04-25,278
+116,Carousel,Unpopular,Average,659,123,172,2025-04-26,954
+117,Static Image,Popular,High-Quality,340,21,80,2025-04-27,441
+118,Carousel,Unpopular,Average,339,111,144,2025-04-28,594
+119,Carousel,Unpopular,Average,562,103,145,2025-04-29,810
+120,Static Image,Popular,High-Quality,200,67,48,2025-04-30,315
+121,Static Image,Popular,High-Quality,120,64,37,2025-05-01,221
+122,Reels,Unpopular,High-Quality,536,123,318,2025-05-02,977
+123,Reels,Popular,High-Quality,483,180,280,2025-05-03,943
+124,Reels,Popular,Average,387,99,257,2025-05-04,743
+125,Reels,Unpopular,Average,275,109,272,2025-05-05,656
+126,Static Image,Popular,Average,160,54,78,2025-05-06,292
+127,Reels,Popular,Average,442,134,374,2025-05-07,950
+128,Static Image,Popular,Average,174,39,42,2025-05-08,255
+129,Reels,Popular,Average,472,105,349,2025-05-09,926
+130,Reels,Unpopular,High-Quality,510,121,312,2025-05-10,943
+131,Static Image,Unpopular,High-Quality,154,55,50,2025-05-11,259
+132,Static Image,Unpopular,Average,59,21,27,2025-05-12,107
+133,Reels,Popular,Average,475,102,288,2025-05-13,865
+134,Reels,Unpopular,Average,435,55,260,2025-05-14,750
+135,Carousel,Popular,Average,973,80,209,2025-05-15,1262
+136,Reels,Popular,High-Quality,465,202,398,2025-05-16,1065
+137,Reels,Popular,High-Quality,562,90,283,2025-05-17,935
+138,Static Image,Popular,Average,204,46,65,2025-05-18,315
+139,Carousel,Unpopular,Average,687,104,166,2025-05-19,957
+140,Carousel,Unpopular,High-Quality,908,124,282,2025-05-20,1314
+141,Static Image,Popular,Average,288,42,28,2025-05-21,358
+142,Static Image,Popular,Average,273,21,46,2025-05-22,340
+143,Carousel,Popular,Average,1042,172,306,2025-05-23,1520
+144,Carousel,Unpopular,Average,555,145,120,2025-05-24,820
+145,Carousel,Popular,High-Quality,1011,270,162,2025-05-25,1443
+146,Reels,Popular,High-Quality,956,171,378,2025-05-26,1505
+147,Reels,Unpopular,High-Quality,764,76,348,2025-05-27,1188
+148,Static Image,Popular,Average,96,22,58,2025-05-28,176
+149,Carousel,Unpopular,High-Quality,751,106,280,2025-05-29,1137
+150,Static Image,Popular,Average,238,54,80,2025-05-30,372
+151,Carousel,Unpopular,Average,746,94,150,2025-05-31,990
+152,Carousel,Unpopular,Average,790,108,238,2025-06-01,1136
+153,Reels,Unpopular,Average,217,104,160,2025-06-02,481
+154,Carousel,Popular,High-Quality,893,93,256,2025-06-03,1242
+155,Carousel,Popular,Average,967,88,302,2025-06-04,1357
+156,Carousel,Unpopular,Average,731,113,140,2025-06-05,984
+157,Static Image,Unpopular,Average,79,29,75,2025-06-06,183
+158,Reels,Popular,High-Quality,1095,186,241,2025-06-07,1522
+159,Reels,Unpopular,Average,493,60,292,2025-06-08,845
+160,Static Image,Popular,High-Quality,223,46,110,2025-06-09,379
+161,Carousel,Popular,Average,468,154,131,2025-06-10,753
+162,Carousel,Unpopular,Average,654,66,178,2025-06-11,898
+163,Reels,Unpopular,High-Quality,319,70,296,2025-06-12,685
+164,Reels,Popular,High-Quality,941,130,252,2025-06-13,1323
+165,Reels,Unpopular,High-Quality,338,106,188,2025-06-14,632
+166,Static Image,Unpopular,Average,137,39,55,2025-06-15,231
+167,Reels,Popular,Average,669,111,336,2025-06-16,1116
+168,Static Image,Unpopular,Average,83,15,56,2025-06-17,154
+169,Reels,Popular,Average,685,122,306,2025-06-18,1113
+170,Static Image,Unpopular,High-Quality,209,24,28,2025-06-19,261
+171,Carousel,Unpopular,High-Quality,557,148,187,2025-06-20,892
+172,Static Image,Popular,Average,151,18,67,2025-06-21,236
+173,Static Image,Popular,Average,96,39,98,2025-06-22,233
+174,Carousel,Unpopular,High-Quality,1007,171,141,2025-06-23,1319
+175,Static Image,Popular,Average,127,16,53,2025-06-24,196
+176,Carousel,Unpopular,Average,676,120,217,2025-06-25,1013
+177,Reels,Popular,High-Quality,906,111,268,2025-06-26,1285
+178,Reels,Popular,Average,639,82,371,2025-06-27,1092
+179,Carousel,Popular,High-Quality,1528,252,331,2025-06-28,2111
+180,Reels,Unpopular,Average,299,95,269,2025-06-29,663
+181,Carousel,Unpopular,High-Quality,863,79,127,2025-06-30,1069
+182,Static Image,Popular,Average,186,18,102,2025-07-01,306
+183,Carousel,Popular,High-Quality,1201,165,156,2025-07-02,1522
+184,Carousel,Popular,High-Quality,882,163,296,2025-07-03,1341
+185,Reels,Popular,High-Quality,535,117,358,2025-07-04,1010
+186,Reels,Unpopular,High-Quality,663,60,328,2025-07-05,1051
+187,Reels,Unpopular,Average,588,80,156,2025-07-06,824
+188,Reels,Popular,High-Quality,867,121,307,2025-07-07,1295
+189,Reels,Unpopular,Average,518,41,222,2025-07-08,781
+190,Reels,Popular,Average,427,141,367,2025-07-09,935
+191,Reels,Popular,Average,606,48,318,2025-07-10,972
+192,Reels,Popular,Average,390,133,308,2025-07-11,831
+193,Static Image,Unpopular,Average,124,31,32,2025-07-12,187
+194,Reels,Unpopular,Average,216,112,278,2025-07-13,606
+195,Carousel,Unpopular,High-Quality,859,168,180,2025-07-14,1207
+196,Reels,Unpopular,High-Quality,588,105,298,2025-07-15,991
+197,Carousel,Popular,Average,645,108,139,2025-07-16,892
+198,Static Image,Popular,High-Quality,219,63,124,2025-07-17,406
+199,Carousel,Unpopular,High-Quality,825,133,129,2025-07-18,1087
+200,Reels,Unpopular,High-Quality,705,90,193,2025-07-19,988
+201,Carousel,Unpopular,High-Quality,523,130,120,2025-07-20,773
+202,Static Image,Unpopular,Average,72,36,65,2025-07-21,173
+203,Static Image,Popular,High-Quality,367,78,64,2025-07-22,509
+204,Carousel,Unpopular,Average,534,52,160,2025-07-23,746
+205,Carousel,Unpopular,Average,420,101,170,2025-07-24,691
+206,Reels,Unpopular,Average,441,64,226,2025-07-25,731
+207,Reels,Popular,Average,339,82,348,2025-07-26,769
+208,Static Image,Unpopular,Average,156,21,68,2025-07-27,245
+209,Carousel,Unpopular,High-Quality,954,183,260,2025-07-28,1397
+210,Carousel,Unpopular,High-Quality,1008,79,255,2025-07-29,1342
+211,Reels,Popular,Average,523,108,328,2025-07-30,959
+212,Static Image,Popular,High-Quality,308,75,91,2025-07-31,474
+213,Static Image,Unpopular,Average,164,12,21,2025-08-01,197
+214,Reels,Unpopular,High-Quality,308,120,344,2025-08-02,772
+215,Reels,Unpopular,Average,356,87,180,2025-08-03,623
+216,Reels,Unpopular,Average,260,111,213,2025-08-04,584
+217,Carousel,Popular,Average,1036,87,300,2025-08-05,1423
+218,Carousel,Popular,Average,684,159,135,2025-08-06,978
+219,Reels,Unpopular,Average,311,79,186,2025-08-07,576
+220,Carousel,Unpopular,High-Quality,514,207,213,2025-08-08,934
+221,Reels,Unpopular,High-Quality,430,177,314,2025-08-09,921
+222,Carousel,Popular,High-Quality,705,127,184,2025-08-10,1016
+223,Carousel,Unpopular,High-Quality,455,178,244,2025-08-11,877
+224,Static Image,Unpopular,High-Quality,161,52,28,2025-08-12,241
+225,Reels,Popular,High-Quality,561,91,350,2025-08-13,1002
+226,Static Image,Unpopular,High-Quality,257,43,61,2025-08-14,361
+227,Carousel,Unpopular,Average,630,57,129,2025-08-15,816
+228,Static Image,Unpopular,Average,104,37,25,2025-08-16,166
+229,Reels,Unpopular,High-Quality,530,72,348,2025-08-17,950
+230,Static Image,Unpopular,High-Quality,126,70,61,2025-08-18,257
+231,Reels,Unpopular,Average,494,112,187,2025-08-19,793
+232,Static Image,Popular,Average,241,22,26,2025-08-20,289
+233,Static Image,Unpopular,Average,85,30,30,2025-08-21,145
+234,Carousel,Popular,Average,898,112,180,2025-08-22,1190
+235,Carousel,Unpopular,Average,365,116,164,2025-08-23,645
+236,Carousel,Unpopular,Average,326,103,141,2025-08-24,570
+237,Reels,Popular,Average,889,116,299,2025-08-25,1304
+238,Static Image,Popular,Average,225,51,57,2025-08-26,333
+239,Reels,Popular,High-Quality,586,84,465,2025-08-27,1135
+240,Reels,Popular,High-Quality,885,168,327,2025-08-28,1380
+241,Static Image,Unpopular,Average,53,37,62,2025-08-29,152
+242,Carousel,Popular,Average,1059,163,230,2025-08-30,1452
+243,Static Image,Unpopular,Average,91,28,48,2025-08-31,167
+244,Carousel,Popular,High-Quality,1268,174,318,2025-09-01,1760
+245,Reels,Popular,Average,631,75,387,2025-09-02,1093
+246,Carousel,Unpopular,High-Quality,786,129,247,2025-09-03,1162
+247,Static Image,Unpopular,Average,77,40,72,2025-09-04,189
+248,Carousel,Popular,Average,619,103,248,2025-09-05,970
+249,Carousel,Unpopular,Average,531,64,183,2025-09-06,778
+250,Static Image,Unpopular,High-Quality,184,69,60,2025-09-07,313
+251,Static Image,Popular,Average,184,37,75,2025-09-08,296
+252,Static Image,Popular,Average,144,32,96,2025-09-09,272
+253,Static Image,Popular,High-Quality,351,84,85,2025-09-10,520
+254,Reels,Popular,High-Quality,448,112,260,2025-09-11,820
+255,Reels,Unpopular,Average,481,113,152,2025-09-12,746
+256,Static Image,Popular,Average,153,56,91,2025-09-13,300
+257,Static Image,Unpopular,High-Quality,143,40,90,2025-09-14,273
+258,Reels,Unpopular,Average,277,84,165,2025-09-15,526
+259,Carousel,Popular,High-Quality,741,177,240,2025-09-16,1158
+260,Static Image,Popular,High-Quality,331,33,97,2025-09-17,461
+261,Carousel,Unpopular,Average,334,133,249,2025-09-18,716
+262,Carousel,Unpopular,Average,480,58,181,2025-09-19,719
+263,Static Image,Unpopular,Average,87,40,36,2025-09-20,163
+264,Static Image,Unpopular,High-Quality,165,46,44,2025-09-21,255
+265,Static Image,Popular,High-Quality,344,82,49,2025-09-22,475
+266,Reels,Popular,Average,364,140,338,2025-09-23,842
+267,Static Image,Popular,High-Quality,265,78,44,2025-09-24,387
+268,Carousel,Popular,High-Quality,752,253,358,2025-09-25,1363
+269,Static Image,Popular,Average,153,39,54,2025-09-26,246
+270,Reels,Popular,Average,441,116,362,2025-09-27,919
+271,Reels,Popular,High-Quality,605,120,252,2025-09-28,977
+272,Reels,Popular,Average,457,136,334,2025-09-29,927
+273,Carousel,Unpopular,High-Quality,743,130,127,2025-09-30,1000
+274,Carousel,Unpopular,Average,762,139,236,2025-10-01,1137
+275,Static Image,Unpopular,High-Quality,222,31,76,2025-10-02,329
+276,Reels,Unpopular,High-Quality,410,129,338,2025-10-03,877
+277,Carousel,Popular,High-Quality,1479,144,330,2025-10-04,1953
+278,Static Image,Unpopular,Average,193,21,45,2025-10-05,259
+279,Carousel,Unpopular,High-Quality,923,156,128,2025-10-06,1207
+280,Reels,Unpopular,Average,370,85,179,2025-10-07,634
+281,Static Image,Popular,High-Quality,188,72,104,2025-10-08,364
+282,Static Image,Unpopular,High-Quality,218,46,27,2025-10-09,291
+283,Static Image,Unpopular,Average,177,21,63,2025-10-10,261
+284,Carousel,Unpopular,Average,537,87,136,2025-10-11,760
+285,Carousel,Popular,High-Quality,867,141,180,2025-10-12,1188
+286,Static Image,Popular,Average,172,19,52,2025-10-13,243
+287,Reels,Popular,High-Quality,1144,184,265,2025-10-14,1593
+288,Static Image,Popular,Average,150,14,45,2025-10-15,209
+289,Reels,Unpopular,Average,242,44,272,2025-10-16,558
+290,Reels,Popular,High-Quality,750,210,288,2025-10-17,1248
+291,Carousel,Popular,Average,1129,166,266,2025-10-18,1561
+292,Carousel,Unpopular,Average,524,117,142,2025-10-19,783
+293,Reels,Popular,High-Quality,1085,153,241,2025-10-20,1479
+294,Static Image,Unpopular,High-Quality,215,75,43,2025-10-21,333
+295,Carousel,Unpopular,Average,470,69,240,2025-10-22,779
+296,Reels,Unpopular,Average,356,96,198,2025-10-23,650
+297,Static Image,Popular,High-Quality,278,54,121,2025-10-24,453
+298,Carousel,Popular,Average,1195,140,196,2025-10-25,1531
+299,Static Image,Popular,Average,300,60,44,2025-10-26,404
+300,Carousel,Popular,Average,1039,151,258,2025-10-27,1448
+301,Static Image,Unpopular,High-Quality,84,42,48,2025-10-28,174
+302,Reels,Unpopular,High-Quality,665,75,288,2025-10-29,1028
+303,Carousel,Popular,High-Quality,1062,238,218,2025-10-30,1518
+304,Reels,Unpopular,High-Quality,742,138,192,2025-10-31,1072
+305,Reels,Unpopular,Average,205,117,190,2025-11-01,512
+306,Static Image,Unpopular,High-Quality,119,28,73,2025-11-02,220
+307,Static Image,Popular,High-Quality,304,63,39,2025-11-03,406
+308,Reels,Unpopular,Average,545,93,160,2025-11-04,798
+309,Carousel,Popular,Average,450,100,140,2025-11-05,690
+310,Reels,Unpopular,Average,485,58,266,2025-11-06,809
+311,Reels,Unpopular,High-Quality,393,91,349,2025-11-07,833
+312,Static Image,Popular,High-Quality,364,45,112,2025-11-08,521
+313,Carousel,Popular,High-Quality,783,243,237,2025-11-09,1263
+314,Reels,Popular,Average,466,99,282,2025-11-10,847
+315,Static Image,Unpopular,High-Quality,163,58,68,2025-11-11,289
+316,Carousel,Popular,Average,864,79,193,2025-11-12,1136
+317,Reels,Unpopular,Average,521,120,159,2025-11-13,800
+318,Static Image,Popular,High-Quality,288,46,99,2025-11-14,433
+319,Reels,Popular,Average,858,121,219,2025-11-15,1198
+320,Carousel,Popular,Average,823,148,283,2025-11-16,1254
+321,Reels,Popular,Average,348,144,211,2025-11-17,703
+322,Carousel,Popular,Average,1032,81,169,2025-11-18,1282
+323,Static Image,Unpopular,Average,196,26,46,2025-11-19,268
+324,Static Image,Unpopular,Average,127,11,66,2025-11-20,204
+325,Static Image,Unpopular,Average,122,26,53,2025-11-21,201
+326,Static Image,Popular,Average,256,34,68,2025-11-22,358
+327,Reels,Popular,High-Quality,889,202,429,2025-11-23,1520
+328,Carousel,Unpopular,Average,394,149,154,2025-11-24,697
+329,Carousel,Unpopular,Average,710,147,241,2025-11-25,1098
+330,Static Image,Popular,Average,175,42,45,2025-11-26,262
+331,Carousel,Popular,High-Quality,757,261,222,2025-11-27,1240
+332,Reels,Unpopular,Average,361,99,180,2025-11-28,640
+333,Carousel,Unpopular,High-Quality,977,195,282,2025-11-29,1454
+334,Carousel,Popular,High-Quality,898,193,276,2025-11-30,1367
+335,Static Image,Unpopular,High-Quality,163,27,32,2025-12-01,222
+336,Static Image,Popular,Average,157,27,83,2025-12-02,267
+337,Carousel,Popular,Average,796,90,137,2025-12-03,1023
+338,Static Image,Unpopular,High-Quality,83,75,80,2025-12-04,238
+339,Carousel,Unpopular,Average,636,50,195,2025-12-05,881
+340,Static Image,Popular,High-Quality,114,22,39,2025-12-06,175
+341,Carousel,Unpopular,High-Quality,802,222,247,2025-12-07,1271
+342,Static Image,Popular,Average,79,49,29,2025-12-08,157
+343,Reels,Unpopular,Average,550,117,161,2025-12-09,828
+344,Carousel,Popular,Average,1003,150,166,2025-12-10,1319
+345,Reels,Popular,Average,787,66,208,2025-12-11,1061
+346,Reels,Popular,High-Quality,668,172,284,2025-12-12,1124
+347,Carousel,Popular,High-Quality,1119,238,376,2025-12-13,1733
+348,Reels,Popular,High-Quality,912,147,252,2025-12-14,1311
+349,Reels,Popular,Average,526,133,332,2025-12-15,991
+350,Static Image,Unpopular,Average,169,37,33,2025-12-16,239
+351,Static Image,Popular,Average,184,12,44,2025-12-17,240
+352,Carousel,Popular,High-Quality,851,261,225,2025-12-18,1337
+353,Carousel,Unpopular,Average,448,102,106,2025-12-19,656
+354,Reels,Unpopular,High-Quality,587,139,210,2025-12-20,936
+355,Reels,Popular,Average,355,111,382,2025-12-21,848
+356,Static Image,Popular,Average,223,49,54,2025-12-22,326
+357,Carousel,Popular,High-Quality,1166,96,182,2025-12-23,1444
+358,Static Image,Popular,High-Quality,130,22,37,2025-12-24,189
+359,Static Image,Unpopular,Average,192,19,52,2025-12-25,263
+360,Carousel,Popular,High-Quality,637,202,286,2025-12-26,1125
+361,Reels,Unpopular,Average,469,66,199,2025-12-27,734
+362,Reels,Unpopular,Average,249,97,243,2025-12-28,589
+363,Carousel,Unpopular,High-Quality,414,157,270,2025-12-29,841
+364,Reels,Unpopular,High-Quality,620,166,279,2025-12-30,1065
+365,Reels,Unpopular,High-Quality,546,142,345,2025-12-31,1033
+366,Carousel,Popular,Average,927,153,288,2026-01-01,1368
+367,Static Image,Popular,High-Quality,253,76,106,2026-01-02,435
+368,Static Image,Unpopular,Average,130,44,70,2026-01-03,244
+369,Static Image,Unpopular,Average,184,49,65,2026-01-04,298
+370,Carousel,Popular,High-Quality,1545,112,206,2026-01-05,1863
+371,Reels,Unpopular,High-Quality,620,163,306,2026-01-06,1089
+372,Reels,Unpopular,High-Quality,518,177,297,2026-01-07,992
+373,Static Image,Popular,Average,264,22,92,2026-01-08,378
+374,Reels,Unpopular,Average,470,83,177,2026-01-09,730
+375,Static Image,Popular,Average,213,50,81,2026-01-10,344
+376,Reels,Popular,High-Quality,932,84,422,2026-01-11,1438
+377,Reels,Popular,High-Quality,1124,171,312,2026-01-12,1607
+378,Carousel,Popular,High-Quality,709,201,319,2026-01-13,1229
+379,Carousel,Popular,High-Quality,1236,247,182,2026-01-14,1665
+380,Carousel,Unpopular,High-Quality,746,99,130,2026-01-15,975
+381,Reels,Popular,Average,409,51,208,2026-01-16,668
+382,Static Image,Popular,Average,172,38,46,2026-01-17,256
+383,Static Image,Unpopular,High-Quality,91,73,94,2026-01-18,258
+384,Reels,Unpopular,High-Quality,549,93,315,2026-01-19,957
+385,Reels,Popular,High-Quality,984,130,350,2026-01-20,1464
+386,Static Image,Unpopular,High-Quality,101,55,74,2026-01-21,230
+387,Reels,Popular,High-Quality,785,73,362,2026-01-22,1220
+388,Static Image,Popular,Average,271,33,44,2026-01-23,348
+389,Carousel,Unpopular,High-Quality,486,91,207,2026-01-24,784
+390,Carousel,Unpopular,High-Quality,432,94,192,2026-01-25,718
+391,Reels,Popular,Average,381,94,356,2026-01-26,831
+392,Reels,Unpopular,High-Quality,452,90,328,2026-01-27,870
+393,Carousel,Popular,Average,832,82,245,2026-01-28,1159
+394,Static Image,Popular,Average,180,42,61,2026-01-29,283
+395,Reels,Unpopular,High-Quality,293,157,253,2026-01-30,703
+396,Static Image,Popular,High-Quality,230,28,43,2026-01-31,301
+397,Carousel,Unpopular,High-Quality,406,136,201,2026-02-01,743
+398,Static Image,Unpopular,Average,180,37,30,2026-02-02,247
+399,Reels,Popular,Average,804,61,243,2026-02-03,1108
+400,Reels,Unpopular,Average,233,92,183,2026-02-04,508
+401,Reels,Unpopular,High-Quality,510,103,320,2026-02-05,933
+402,Carousel,Popular,High-Quality,600,252,175,2026-02-06,1027
+403,Static Image,Popular,Average,105,34,72,2026-02-07,211
+404,Static Image,Popular,High-Quality,245,78,79,2026-02-08,402
+405,Carousel,Unpopular,Average,731,89,174,2026-02-09,994
+406,Carousel,Popular,Average,759,91,214,2026-02-10,1064
+407,Static Image,Popular,High-Quality,261,69,31,2026-02-11,361
+408,Carousel,Unpopular,Average,405,80,156,2026-02-12,641
+409,Carousel,Unpopular,High-Quality,765,81,276,2026-02-13,1122
+410,Carousel,Popular,High-Quality,659,130,318,2026-02-14,1107
+411,Static Image,Popular,Average,252,32,100,2026-02-15,384
+412,Carousel,Popular,Average,585,157,234,2026-02-16,976
+413,Static Image,Popular,High-Quality,102,82,63,2026-02-17,247
+414,Reels,Popular,High-Quality,586,177,296,2026-02-18,1059
+415,Carousel,Popular,Average,883,147,262,2026-02-19,1292
+416,Carousel,Unpopular,High-Quality,405,166,241,2026-02-20,812
+417,Static Image,Unpopular,Average,68,33,66,2026-02-21,167
+418,Carousel,Unpopular,Average,305,70,198,2026-02-22,573
+419,Reels,Popular,Average,502,138,339,2026-02-23,979
+420,Reels,Popular,Average,654,60,258,2026-02-24,972
+421,Carousel,Popular,High-Quality,748,190,226,2026-02-25,1164
+422,Static Image,Unpopular,High-Quality,135,67,51,2026-02-26,253
+423,Static Image,Popular,Average,286,52,59,2026-02-27,397
+424,Carousel,Popular,Average,1098,158,263,2026-02-28,1519
+425,Static Image,Unpopular,High-Quality,132,19,36,2026-03-01,187
+426,Static Image,Popular,Average,88,18,74,2026-03-02,180
+427,Reels,Popular,Average,345,132,243,2026-03-03,720
+428,Carousel,Popular,High-Quality,846,141,346,2026-03-04,1333
+429,Carousel,Unpopular,High-Quality,707,150,292,2026-03-05,1149
+430,Carousel,Popular,High-Quality,924,249,157,2026-03-06,1330
+431,Static Image,Unpopular,Average,188,47,58,2026-03-07,293
+432,Reels,Unpopular,Average,282,43,158,2026-03-08,483
+433,Static Image,Popular,Average,123,24,92,2026-03-09,239
+434,Static Image,Popular,High-Quality,157,22,75,2026-03-10,254
+435,Reels,Popular,High-Quality,1159,193,276,2026-03-11,1628
+436,Static Image,Unpopular,High-Quality,79,25,70,2026-03-12,174
+437,Static Image,Popular,Average,201,22,87,2026-03-13,310
+438,Carousel,Popular,Average,760,144,187,2026-03-14,1091
+439,Carousel,Popular,Average,1176,152,319,2026-03-15,1647
+440,Reels,Popular,Average,339,112,309,2026-03-16,760
+441,Static Image,Popular,High-Quality,300,37,62,2026-03-17,399
+442,Static Image,Popular,Average,190,26,62,2026-03-18,278
+443,Carousel,Popular,High-Quality,613,138,172,2026-03-19,923
+444,Reels,Unpopular,High-Quality,451,147,326,2026-03-20,924
+445,Static Image,Popular,High-Quality,265,84,121,2026-03-21,470
+446,Carousel,Popular,Average,549,138,299,2026-03-22,986
+447,Reels,Popular,High-Quality,1053,202,432,2026-03-23,1687
+448,Carousel,Popular,High-Quality,937,261,169,2026-03-24,1367
+449,Static Image,Unpopular,High-Quality,161,25,84,2026-03-25,270
+450,Static Image,Unpopular,Average,200,43,57,2026-03-26,300
+451,Static Image,Popular,Average,160,37,57,2026-03-27,254
+452,Static Image,Popular,High-Quality,293,82,86,2026-03-28,461
+453,Reels,Popular,High-Quality,1077,174,381,2026-03-29,1632
+454,Carousel,Popular,High-Quality,1557,237,314,2026-03-30,2108
+455,Static Image,Unpopular,High-Quality,114,37,61,2026-03-31,212
+456,Carousel,Unpopular,Average,520,69,113,2026-04-01,702
+457,Reels,Unpopular,High-Quality,648,72,240,2026-04-02,960
+458,Static Image,Unpopular,Average,106,40,25,2026-04-03,171
+459,Carousel,Popular,Average,775,80,140,2026-04-04,995
+460,Carousel,Unpopular,High-Quality,943,183,217,2026-04-05,1343
+461,Static Image,Unpopular,Average,183,30,52,2026-04-06,265
+462,Static Image,Popular,High-Quality,152,72,33,2026-04-07,257
+463,Carousel,Popular,Average,720,141,197,2026-04-08,1058
+464,Carousel,Unpopular,Average,589,107,244,2026-04-09,940
+465,Static Image,Unpopular,Average,104,49,55,2026-04-10,208
+466,Static Image,Unpopular,High-Quality,187,60,39,2026-04-11,286
+467,Static Image,Unpopular,Average,64,33,79,2026-04-12,176
+468,Carousel,Unpopular,High-Quality,943,82,210,2026-04-13,1235
+469,Static Image,Unpopular,Average,109,16,43,2026-04-14,168
+470,Static Image,Unpopular,Average,120,22,37,2026-04-15,179
+471,Reels,Unpopular,High-Quality,397,115,340,2026-04-16,852
+472,Carousel,Unpopular,High-Quality,440,201,253,2026-04-17,894
+473,Reels,Popular,High-Quality,1163,136,296,2026-04-18,1595
+474,Reels,Unpopular,Average,522,77,240,2026-04-19,839
+475,Reels,Popular,Average,466,93,301,2026-04-20,860
+476,Carousel,Unpopular,Average,611,148,211,2026-04-21,970
+477,Static Image,Popular,Average,268,57,74,2026-04-22,399
+478,Carousel,Popular,High-Quality,1038,202,226,2026-04-23,1466
+479,Carousel,Unpopular,High-Quality,1034,148,136,2026-04-24,1318
+480,Carousel,Popular,Average,1198,174,273,2026-04-25,1645
+481,Reels,Popular,Average,774,85,308,2026-04-26,1167
+482,Reels,Popular,High-Quality,978,213,433,2026-04-27,1624
+483,Static Image,Popular,Average,190,27,93,2026-04-28,310
+484,Carousel,Unpopular,High-Quality,569,93,159,2026-04-29,821
+485,Reels,Unpopular,Average,562,40,242,2026-04-30,844
+486,Reels,Unpopular,Average,334,51,285,2026-05-01,670
+487,Reels,Unpopular,High-Quality,314,90,187,2026-05-02,591
+488,Carousel,Popular,Average,840,123,156,2026-05-03,1119
+489,Carousel,Popular,Average,1026,84,172,2026-05-04,1282
+490,Static Image,Popular,Average,222,15,62,2026-05-05,299
+491,Static Image,Unpopular,High-Quality,137,40,37,2026-05-06,214
+492,Carousel,Popular,High-Quality,1049,237,302,2026-05-07,1588
+493,Carousel,Popular,High-Quality,1380,189,224,2026-05-08,1793
+494,Static Image,Popular,High-Quality,198,49,73,2026-05-09,320
+495,Reels,Popular,Average,840,72,266,2026-05-10,1178
+496,Static Image,Unpopular,Average,172,30,29,2026-05-11,231
+497,Carousel,Unpopular,Average,641,132,139,2026-05-12,912
+498,Carousel,Popular,High-Quality,1485,253,194,2026-05-13,1932
+499,Reels,Unpopular,Average,462,114,190,2026-05-14,766
+500,Static Image,Unpopular,High-Quality,127,19,28,2026-05-15,174
+501,Reels,Unpopular,High-Quality,271,144,360,2026-05-16,775
+502,Static Image,Unpopular,Average,86,40,28,2026-05-17,154
+503,Static Image,Popular,High-Quality,354,28,85,2026-05-18,467
+504,Reels,Unpopular,Average,521,120,169,2026-05-19,810
+505,Static Image,Popular,High-Quality,375,33,70,2026-05-20,478
+506,Reels,Unpopular,Average,490,95,270,2026-05-21,855
+507,Reels,Popular,Average,606,130,361,2026-05-22,1097
+508,Static Image,Unpopular,Average,168,18,53,2026-05-23,239
+509,Static Image,Popular,Average,219,56,67,2026-05-24,342
+510,Static Image,Popular,Average,100,37,63,2026-05-25,200
+511,Reels,Unpopular,Average,214,87,158,2026-05-26,459
+512,Static Image,Unpopular,Average,115,44,34,2026-05-27,193
+513,Static Image,Unpopular,Average,90,29,40,2026-05-28,159
+514,Carousel,Unpopular,Average,624,82,181,2026-05-29,887
+515,Reels,Unpopular,High-Quality,721,129,356,2026-05-30,1206
+516,Static Image,Unpopular,High-Quality,195,64,88,2026-05-31,347
+517,Reels,Popular,Average,616,86,258,2026-06-01,960
+518,Static Image,Unpopular,Average,183,48,56,2026-06-02,287
+519,Static Image,Popular,Average,193,52,71,2026-06-03,316
+520,Reels,Unpopular,High-Quality,696,118,246,2026-06-04,1060
+521,Carousel,Popular,High-Quality,725,228,349,2026-06-05,1302
+522,Static Image,Unpopular,Average,51,49,71,2026-06-06,171
+523,Static Image,Unpopular,High-Quality,184,43,82,2026-06-07,309
+524,Static Image,Unpopular,High-Quality,131,54,43,2026-06-08,228
+525,Reels,Unpopular,High-Quality,633,115,303,2026-06-09,1051
+526,Reels,Unpopular,Average,586,102,204,2026-06-10,892
+527,Static Image,Popular,Average,180,40,98,2026-06-11,318
+528,Reels,Unpopular,Average,298,82,297,2026-06-12,677
+529,Reels,Unpopular,High-Quality,438,102,255,2026-06-13,795
+530,Static Image,Popular,Average,142,60,57,2026-06-14,259
+531,Carousel,Unpopular,Average,426,98,246,2026-06-15,770
+532,Carousel,Unpopular,Average,619,150,184,2026-06-16,953
+533,Carousel,Popular,Average,571,138,265,2026-06-17,974
+534,Static Image,Unpopular,High-Quality,252,43,87,2026-06-18,382
+535,Static Image,Popular,Average,174,57,104,2026-06-19,335
+536,Carousel,Unpopular,Average,760,57,197,2026-06-20,1014
+537,Static Image,Popular,Average,292,30,72,2026-06-21,394
+538,Reels,Unpopular,High-Quality,343,171,236,2026-06-22,750
+539,Static Image,Popular,Average,127,38,70,2026-06-23,235
+540,Reels,Popular,High-Quality,1140,129,297,2026-06-24,1566
+541,Reels,Popular,Average,613,141,351,2026-06-25,1105
+542,Carousel,Popular,High-Quality,968,112,364,2026-06-26,1444
+543,Reels,Unpopular,High-Quality,659,96,356,2026-06-27,1111
+544,Carousel,Popular,High-Quality,1349,175,200,2026-06-28,1724
+545,Reels,Unpopular,High-Quality,288,124,340,2026-06-29,752
+546,Static Image,Popular,Average,108,46,104,2026-06-30,258
+547,Reels,Unpopular,High-Quality,309,117,278,2026-07-01,704
+548,Static Image,Unpopular,Average,126,34,28,2026-07-02,188
+549,Carousel,Unpopular,Average,799,129,202,2026-07-03,1130
+550,Static Image,Popular,High-Quality,335,27,37,2026-07-04,399
+551,Carousel,Popular,Average,1170,87,235,2026-07-05,1492
+552,Reels,Unpopular,High-Quality,336,142,229,2026-07-06,707
+553,Static Image,Popular,High-Quality,254,19,62,2026-07-07,335
+554,Static Image,Unpopular,High-Quality,91,75,85,2026-07-08,251
+555,Reels,Popular,High-Quality,928,139,339,2026-07-09,1406
+556,Static Image,Popular,Average,171,56,39,2026-07-10,266
+557,Reels,Popular,High-Quality,924,204,318,2026-07-11,1446
+558,Reels,Unpopular,Average,383,111,183,2026-07-12,677
+559,Reels,Popular,Average,655,124,261,2026-07-13,1040
+560,Carousel,Unpopular,Average,478,150,237,2026-07-14,865
+561,Static Image,Popular,Average,219,14,87,2026-07-15,320
+562,Static Image,Unpopular,High-Quality,120,46,80,2026-07-16,246
+563,Reels,Unpopular,High-Quality,386,94,324,2026-07-17,804
+564,Reels,Unpopular,Average,446,70,269,2026-07-18,785
+565,Static Image,Popular,High-Quality,362,19,42,2026-07-19,423
+566,Carousel,Popular,High-Quality,1101,226,166,2026-07-20,1493
+567,Reels,Unpopular,High-Quality,383,154,278,2026-07-21,815
+568,Static Image,Unpopular,Average,145,36,64,2026-07-22,245
+569,Carousel,Popular,Average,532,80,215,2026-07-23,827
+570,Static Image,Popular,Average,114,26,63,2026-07-24,203
+571,Static Image,Popular,Average,207,27,59,2026-07-25,293
+572,Static Image,Unpopular,Average,120,11,33,2026-07-26,164
+573,Static Image,Unpopular,High-Quality,70,40,70,2026-07-27,180
+574,Carousel,Unpopular,Average,356,72,115,2026-07-28,543
+575,Static Image,Popular,Average,204,49,57,2026-07-29,310
+576,Carousel,Popular,High-Quality,1407,261,225,2026-07-30,1893
+577,Static Image,Popular,High-Quality,383,82,99,2026-07-31,564
+578,Carousel,Popular,High-Quality,990,121,370,2026-08-01,1481
+579,Static Image,Unpopular,Average,164,46,60,2026-08-02,270
+580,Carousel,Popular,High-Quality,1144,216,282,2026-08-03,1642
+581,Carousel,Popular,High-Quality,1050,163,255,2026-08-04,1468
+582,Static Image,Popular,High-Quality,288,72,79,2026-08-05,439
+583,Static Image,Popular,Average,250,18,98,2026-08-06,366
+584,Reels,Popular,High-Quality,1158,84,411,2026-08-07,1653
+585,Reels,Unpopular,Average,465,72,267,2026-08-08,804
+586,Reels,Popular,High-Quality,851,105,423,2026-08-09,1379
+587,Static Image,Popular,Average,145,57,83,2026-08-10,285
+588,Reels,Popular,Average,669,141,367,2026-08-11,1177
+589,Carousel,Unpopular,High-Quality,796,115,297,2026-08-12,1208
+590,Reels,Unpopular,High-Quality,748,97,219,2026-08-13,1064
+591,Reels,Popular,Average,495,68,344,2026-08-14,907
+592,Static Image,Popular,Average,136,33,65,2026-08-15,234
+593,Static Image,Popular,Average,273,37,46,2026-08-16,356
+594,Reels,Popular,Average,688,117,260,2026-08-17,1065
+595,Carousel,Popular,Average,615,91,144,2026-08-18,850
+596,Static Image,Popular,High-Quality,183,18,111,2026-08-19,312
+597,Carousel,Unpopular,High-Quality,726,114,252,2026-08-20,1092
+598,Reels,Popular,Average,406,111,341,2026-08-21,858
+599,Reels,Unpopular,Average,254,106,262,2026-08-22,622
+600,Carousel,Unpopular,High-Quality,432,168,247,2026-08-23,847
+601,Reels,Popular,High-Quality,988,198,362,2026-08-24,1548
+602,Reels,Popular,High-Quality,1154,163,385,2026-08-25,1702
+603,Reels,Unpopular,Average,275,113,280,2026-08-26,668
+604,Reels,Unpopular,Average,426,116,178,2026-08-27,720
+605,Carousel,Popular,Average,702,80,223,2026-08-28,1005
+606,Reels,Popular,Average,562,94,223,2026-08-29,879
+607,Static Image,Popular,High-Quality,247,72,104,2026-08-30,423
+608,Reels,Unpopular,Average,344,48,244,2026-08-31,636
+609,Reels,Unpopular,Average,324,76,152,2026-09-01,552
+610,Carousel,Popular,Average,813,133,198,2026-09-02,1144
+611,Static Image,Unpopular,High-Quality,98,49,49,2026-09-03,196
+612,Static Image,Popular,High-Quality,305,39,39,2026-09-04,383
+613,Reels,Popular,High-Quality,648,136,346,2026-09-05,1130
+614,Carousel,Popular,Average,1057,94,193,2026-09-06,1344
+615,Static Image,Popular,Average,219,60,50,2026-09-07,329
+616,Reels,Unpopular,Average,541,56,274,2026-09-08,871
+617,Static Image,Unpopular,Average,139,18,67,2026-09-09,224
+618,Reels,Popular,High-Quality,577,84,439,2026-09-10,1100
+619,Carousel,Unpopular,Average,624,103,130,2026-09-11,857
+620,Static Image,Unpopular,High-Quality,247,64,93,2026-09-12,404
+621,Reels,Popular,Average,396,122,270,2026-09-13,788
+622,Reels,Unpopular,High-Quality,490,132,339,2026-09-14,961
+623,Static Image,Popular,High-Quality,282,22,110,2026-09-15,414
+624,Carousel,Popular,High-Quality,1014,123,171,2026-09-16,1308
+625,Static Image,Popular,High-Quality,315,40,90,2026-09-17,445
+626,Static Image,Unpopular,High-Quality,79,49,39,2026-09-18,167
+627,Reels,Unpopular,High-Quality,400,99,222,2026-09-19,721
+628,Static Image,Unpopular,High-Quality,254,21,88,2026-09-20,363
+629,Carousel,Popular,Average,513,115,291,2026-09-21,919
+630,Carousel,Unpopular,Average,395,68,189,2026-09-22,652
+631,Reels,Unpopular,High-Quality,569,111,253,2026-09-23,933
+632,Reels,Popular,Average,355,56,292,2026-09-24,703
+633,Reels,Popular,Average,694,105,240,2026-09-25,1039
+634,Carousel,Unpopular,High-Quality,912,178,216,2026-09-26,1306
+635,Static Image,Popular,Average,238,34,36,2026-09-27,308
+636,Reels,Popular,Average,688,108,249,2026-09-28,1045
+637,Static Image,Popular,Average,126,60,79,2026-09-29,265
+638,Reels,Popular,High-Quality,1030,108,397,2026-09-30,1535
+639,Carousel,Popular,Average,738,152,244,2026-10-01,1134
+640,Static Image,Unpopular,Average,131,25,54,2026-10-02,210
+641,Reels,Unpopular,High-Quality,617,117,193,2026-10-03,927
+642,Static Image,Unpopular,High-Quality,94,16,58,2026-10-04,168
+643,Carousel,Unpopular,Average,471,77,235,2026-10-05,783
+644,Static Image,Popular,High-Quality,300,48,78,2026-10-06,426
+645,Reels,Popular,High-Quality,776,81,406,2026-10-07,1263
+646,Reels,Popular,Average,765,72,315,2026-10-08,1152
+647,Reels,Unpopular,High-Quality,767,84,211,2026-10-09,1062
+648,Reels,Unpopular,Average,204,46,297,2026-10-10,547
+649,Reels,Unpopular,Average,220,93,242,2026-10-11,555
+650,Carousel,Unpopular,Average,684,118,161,2026-10-12,963
+651,Carousel,Popular,High-Quality,1011,234,262,2026-10-13,1507
+652,Static Image,Popular,Average,117,12,46,2026-10-14,175
+653,Reels,Popular,High-Quality,1019,117,320,2026-10-15,1456
+654,Reels,Unpopular,High-Quality,301,88,196,2026-10-16,585
+655,Reels,Popular,Average,654,116,388,2026-10-17,1158
+656,Static Image,Unpopular,Average,72,10,57,2026-10-18,139
+657,Carousel,Popular,High-Quality,1294,252,277,2026-10-19,1823
+658,Reels,Popular,High-Quality,574,102,240,2026-10-20,916
+659,Carousel,Unpopular,High-Quality,551,76,166,2026-10-21,793
+660,Reels,Popular,High-Quality,640,121,338,2026-10-22,1099
+661,Static Image,Unpopular,Average,110,14,55,2026-10-23,179
+662,Carousel,Popular,Average,768,63,302,2026-10-24,1133
+663,Static Image,Unpopular,High-Quality,136,67,85,2026-10-25,288
+664,Static Image,Popular,Average,99,60,101,2026-10-26,260
+665,Reels,Popular,High-Quality,998,84,417,2026-10-27,1499
+666,Carousel,Unpopular,High-Quality,1021,100,217,2026-10-28,1338
+667,Carousel,Unpopular,Average,693,96,127,2026-10-29,916
+668,Carousel,Unpopular,Average,381,57,206,2026-10-30,644
+669,Carousel,Popular,High-Quality,679,207,314,2026-10-31,1200
+670,Reels,Popular,High-Quality,1010,190,432,2026-11-01,1632
+671,Reels,Unpopular,Average,257,65,275,2026-11-02,597
+672,Carousel,Popular,High-Quality,882,135,252,2026-11-03,1269
+673,Carousel,Unpopular,Average,423,150,213,2026-11-04,786
+674,Reels,Popular,Average,657,144,276,2026-11-05,1077
+675,Static Image,Popular,High-Quality,114,60,50,2026-11-06,224
+676,Carousel,Unpopular,Average,756,148,135,2026-11-07,1039
+677,Reels,Unpopular,Average,381,80,211,2026-11-08,672
+678,Carousel,Unpopular,Average,373,110,193,2026-11-09,676
+679,Carousel,Unpopular,Average,464,61,221,2026-11-10,746
+680,Static Image,Popular,High-Quality,254,72,69,2026-11-11,395
+681,Carousel,Popular,Average,966,166,226,2026-11-12,1358
+682,Carousel,Unpopular,Average,480,82,227,2026-11-13,789
+683,Static Image,Unpopular,Average,140,12,28,2026-11-14,180
+684,Reels,Popular,High-Quality,613,157,397,2026-11-15,1167
+685,Reels,Popular,Average,316,110,245,2026-11-16,671
+686,Carousel,Popular,High-Quality,932,204,315,2026-11-17,1451
+687,Static Image,Popular,Average,132,39,54,2026-11-18,225
+688,Static Image,Unpopular,High-Quality,70,58,78,2026-11-19,206
+689,Reels,Popular,Average,750,105,366,2026-11-20,1221
+690,Static Image,Unpopular,High-Quality,79,55,85,2026-11-21,219
+691,Reels,Unpopular,High-Quality,559,147,327,2026-11-22,1033
+692,Carousel,Unpopular,Average,617,122,217,2026-11-23,956
+693,Carousel,Popular,Average,664,168,174,2026-11-24,1006
+694,Static Image,Popular,Average,163,19,96,2026-11-25,278
+695,Carousel,Unpopular,High-Quality,562,201,194,2026-11-26,957
+696,Static Image,Unpopular,High-Quality,126,75,72,2026-11-27,273
+697,Static Image,Popular,Average,181,58,45,2026-11-28,284
+698,Static Image,Unpopular,High-Quality,92,45,46,2026-11-29,183
+699,Reels,Popular,High-Quality,703,81,393,2026-11-30,1177
+700,Reels,Popular,Average,819,51,228,2026-12-01,1098
+701,Static Image,Unpopular,Average,188,20,38,2026-12-02,246
+702,Reels,Popular,Average,811,69,269,2026-12-03,1149
+703,Reels,Unpopular,Average,597,72,272,2026-12-04,941
+704,Static Image,Unpopular,Average,176,38,70,2026-12-05,284
+705,Static Image,Unpopular,Average,62,31,39,2026-12-06,132
+706,Static Image,Popular,Average,121,37,63,2026-12-07,221
+707,Reels,Unpopular,High-Quality,280,84,301,2026-12-08,665
+708,Carousel,Popular,High-Quality,679,247,271,2026-12-09,1197
+709,Reels,Popular,High-Quality,933,150,272,2026-12-10,1355
+710,Carousel,Popular,Average,969,176,182,2026-12-11,1327
+711,Carousel,Unpopular,Average,678,113,243,2026-12-12,1034
+712,Static Image,Popular,High-Quality,280,51,75,2026-12-13,406
+713,Static Image,Unpopular,High-Quality,206,70,46,2026-12-14,322
+714,Static Image,Unpopular,Average,158,36,67,2026-12-15,261
+715,Static Image,Popular,Average,234,33,88,2026-12-16,355
+716,Static Image,Unpopular,Average,93,39,55,2026-12-17,187
+717,Carousel,Unpopular,Average,644,103,107,2026-12-18,854
+718,Carousel,Unpopular,High-Quality,464,201,289,2026-12-19,954
+719,Static Image,Popular,High-Quality,315,27,120,2026-12-20,462
+720,Static Image,Unpopular,Average,84,29,71,2026-12-21,184
+721,Reels,Popular,High-Quality,999,118,253,2026-12-22,1370
+722,Static Image,Unpopular,Average,200,33,31,2026-12-23,264
+723,Static Image,Popular,Average,286,16,50,2026-12-24,352
+724,Carousel,Popular,High-Quality,1405,156,247,2026-12-25,1808
+725,Reels,Popular,Average,828,141,205,2026-12-26,1174
+726,Carousel,Popular,Average,745,64,226,2026-12-27,1035
+727,Carousel,Popular,Average,763,159,240,2026-12-28,1162
+728,Carousel,Popular,High-Quality,1532,217,376,2026-12-29,2125
+729,Carousel,Popular,High-Quality,663,174,303,2026-12-30,1140
+730,Reels,Popular,High-Quality,514,216,307,2026-12-31,1037
+731,Carousel,Popular,Average,472,151,218,2027-01-01,841
+732,Static Image,Unpopular,High-Quality,115,75,44,2027-01-02,234
+733,Reels,Popular,Average,736,134,227,2027-01-03,1097
+734,Carousel,Popular,High-Quality,1381,139,336,2027-01-04,1856
+735,Static Image,Popular,High-Quality,331,30,112,2027-01-05,473
+736,Carousel,Unpopular,Average,746,55,149,2027-01-06,950
+737,Static Image,Popular,High-Quality,180,18,90,2027-01-07,288
+738,Reels,Popular,High-Quality,1085,195,271,2027-01-08,1551
+739,Reels,Unpopular,Average,408,48,236,2027-01-09,692
+740,Static Image,Unpopular,High-Quality,110,55,24,2027-01-10,189
+741,Static Image,Unpopular,Average,147,34,42,2027-01-11,223
+742,Static Image,Unpopular,High-Quality,169,52,78,2027-01-12,299
+743,Static Image,Popular,Average,189,44,94,2027-01-13,327
+744,Carousel,Unpopular,High-Quality,975,165,218,2027-01-14,1358
+745,Static Image,Unpopular,Average,93,27,25,2027-01-15,145
+746,Reels,Popular,Average,843,74,358,2027-01-16,1275
+747,Reels,Unpopular,Average,424,60,196,2027-01-17,680
+748,Reels,Popular,High-Quality,664,112,345,2027-01-18,1121
+749,Carousel,Unpopular,High-Quality,999,157,289,2027-01-19,1445
+750,Reels,Unpopular,High-Quality,404,81,349,2027-01-20,834
+751,Carousel,Popular,Average,643,104,202,2027-01-21,949
+752,Carousel,Unpopular,Average,598,132,155,2027-01-22,885
+753,Static Image,Unpopular,High-Quality,152,21,55,2027-01-23,228
+754,Carousel,Popular,High-Quality,811,153,343,2027-01-24,1307
+755,Reels,Unpopular,Average,490,100,280,2027-01-25,870
+756,Static Image,Unpopular,High-Quality,204,64,84,2027-01-26,352
+757,Carousel,Unpopular,High-Quality,431,220,300,2027-01-27,951
+758,Reels,Popular,High-Quality,609,183,325,2027-01-28,1117
+759,Reels,Popular,Average,846,144,327,2027-01-29,1317
+760,Carousel,Unpopular,High-Quality,834,84,212,2027-01-30,1130
+761,Static Image,Unpopular,High-Quality,84,18,32,2027-01-31,134
+762,Carousel,Popular,Average,465,123,167,2027-02-01,755
+763,Carousel,Popular,Average,1045,142,189,2027-02-02,1376
+764,Carousel,Popular,Average,784,102,145,2027-02-03,1031
+765,Static Image,Unpopular,High-Quality,198,22,52,2027-02-04,272
+766,Reels,Popular,Average,805,128,292,2027-02-05,1225
+767,Carousel,Popular,High-Quality,592,252,190,2027-02-06,1034
+768,Static Image,Unpopular,Average,71,30,31,2027-02-07,132
+769,Carousel,Unpopular,High-Quality,826,132,284,2027-02-08,1242
+770,Static Image,Popular,Average,190,48,100,2027-02-09,338
+771,Static Image,Popular,Average,75,60,58,2027-02-10,193
+772,Carousel,Popular,Average,526,132,322,2027-02-11,980
+773,Reels,Unpopular,High-Quality,404,133,190,2027-02-12,727
+774,Reels,Unpopular,Average,315,81,264,2027-02-13,660
+775,Carousel,Popular,Average,663,75,276,2027-02-14,1014
+776,Static Image,Popular,Average,202,39,65,2027-02-15,306
+777,Static Image,Unpopular,Average,121,31,50,2027-02-16,202
+778,Carousel,Unpopular,High-Quality,846,120,255,2027-02-17,1221
+779,Reels,Unpopular,High-Quality,510,153,230,2027-02-18,893
+780,Carousel,Popular,High-Quality,1123,93,183,2027-02-19,1399
+781,Static Image,Unpopular,High-Quality,146,28,43,2027-02-20,217
+782,Reels,Unpopular,High-Quality,269,171,309,2027-02-21,749
+783,Carousel,Popular,High-Quality,908,99,351,2027-02-22,1358
+784,Static Image,Popular,Average,154,12,31,2027-02-23,197
+785,Static Image,Popular,Average,210,15,101,2027-02-24,326
+786,Reels,Popular,High-Quality,1085,192,304,2027-02-25,1581
+787,Static Image,Unpopular,Average,194,36,56,2027-02-26,286
+788,Carousel,Unpopular,High-Quality,1004,100,262,2027-02-27,1366
+789,Carousel,Unpopular,Average,602,51,188,2027-02-28,841
+790,Reels,Unpopular,Average,492,66,200,2027-03-01,758
+791,Reels,Unpopular,Average,301,45,152,2027-03-02,498
+792,Carousel,Popular,High-Quality,1331,138,298,2027-03-03,1767
+793,Static Image,Popular,Average,262,26,27,2027-03-04,315
+794,Reels,Unpopular,Average,586,114,208,2027-03-05,908
+795,Reels,Popular,Average,886,135,223,2027-03-06,1244
+796,Reels,Unpopular,Average,250,63,280,2027-03-07,593
+797,Carousel,Popular,High-Quality,1552,189,338,2027-03-08,2079
+798,Static Image,Popular,Average,171,54,49,2027-03-09,274
+799,Reels,Popular,Average,346,142,270,2027-03-10,758
+800,Carousel,Unpopular,Average,734,88,249,2027-03-11,1071
+801,Carousel,Popular,High-Quality,1463,127,211,2027-03-12,1801
+802,Static Image,Unpopular,High-Quality,91,49,73,2027-03-13,213
+803,Carousel,Popular,High-Quality,1509,175,346,2027-03-14,2030
+804,Reels,Popular,High-Quality,542,109,382,2027-03-15,1033
+805,Carousel,Unpopular,Average,376,105,170,2027-03-16,651
+806,Static Image,Unpopular,High-Quality,231,22,43,2027-03-17,296
+807,Reels,Popular,Average,802,106,369,2027-03-18,1277
+808,Reels,Unpopular,Average,351,86,230,2027-03-19,667
+809,Carousel,Popular,Average,877,85,289,2027-03-20,1251
+810,Reels,Popular,Average,891,91,312,2027-03-21,1294
+811,Reels,Popular,Average,448,48,390,2027-03-22,886
+812,Reels,Unpopular,High-Quality,288,129,310,2027-03-23,727
+813,Carousel,Popular,Average,465,175,270,2027-03-24,910
+814,Carousel,Unpopular,High-Quality,895,123,295,2027-03-25,1313
+815,Carousel,Popular,High-Quality,1245,117,234,2027-03-26,1596
+816,Static Image,Popular,High-Quality,390,63,120,2027-03-27,573
+817,Static Image,Popular,High-Quality,243,45,54,2027-03-28,342
+818,Static Image,Unpopular,High-Quality,254,31,60,2027-03-29,345
+819,Reels,Unpopular,Average,248,95,281,2027-03-30,624
+820,Reels,Unpopular,Average,235,87,275,2027-03-31,597
+821,Static Image,Unpopular,Average,76,14,53,2027-04-01,143
+822,Static Image,Unpopular,High-Quality,170,22,85,2027-04-02,277
+823,Static Image,Popular,Average,298,34,41,2027-04-03,373
+824,Carousel,Popular,Average,567,172,156,2027-04-04,895
+825,Carousel,Popular,Average,883,127,224,2027-04-05,1234
+826,Static Image,Unpopular,Average,168,11,58,2027-04-06,237
+827,Static Image,Popular,Average,274,58,29,2027-04-07,361
+828,Static Image,Popular,Average,204,13,100,2027-04-08,317
+829,Reels,Unpopular,Average,307,72,274,2027-04-09,653
+830,Carousel,Popular,High-Quality,1528,234,267,2027-04-10,2029
+831,Reels,Popular,Average,588,130,315,2027-04-11,1033
+832,Reels,Popular,High-Quality,406,108,234,2027-04-12,748
+833,Carousel,Unpopular,High-Quality,851,108,121,2027-04-13,1080
+834,Carousel,Unpopular,Average,542,117,136,2027-04-14,795
+835,Reels,Unpopular,Average,421,111,181,2027-04-15,713
+836,Static Image,Popular,Average,265,19,84,2027-04-16,368
+837,Carousel,Unpopular,High-Quality,404,172,242,2027-04-17,818
+838,Static Image,Unpopular,Average,93,17,79,2027-04-18,189
+839,Carousel,Unpopular,High-Quality,442,184,181,2027-04-19,807
+840,Reels,Unpopular,Average,591,95,292,2027-04-20,978
+841,Reels,Unpopular,Average,580,72,288,2027-04-21,940
+842,Carousel,Unpopular,High-Quality,741,112,130,2027-04-22,983
+843,Static Image,Popular,Average,211,21,102,2027-04-23,334
+844,Static Image,Unpopular,High-Quality,96,48,34,2027-04-24,178
+845,Reels,Unpopular,Average,234,97,190,2027-04-25,521
+846,Static Image,Unpopular,High-Quality,256,42,80,2027-04-26,378
+847,Reels,Popular,Average,666,144,292,2027-04-27,1102
+848,Reels,Unpopular,Average,330,98,292,2027-04-28,720
+849,Carousel,Popular,High-Quality,1030,190,307,2027-04-29,1527
+850,Reels,Unpopular,High-Quality,683,180,230,2027-04-30,1093
+851,Carousel,Popular,High-Quality,1287,175,208,2027-05-01,1670
+852,Reels,Popular,Average,538,140,256,2027-05-02,934
+853,Static Image,Popular,Average,109,12,93,2027-05-03,214
+854,Static Image,Unpopular,Average,194,36,20,2027-05-04,250
+855,Carousel,Popular,Average,550,132,230,2027-05-05,912
+856,Static Image,Popular,Average,201,46,59,2027-05-06,306
+857,Carousel,Popular,Average,1129,64,310,2027-05-07,1503
+858,Carousel,Popular,Average,865,64,166,2027-05-08,1095
+859,Carousel,Unpopular,Average,576,103,107,2027-05-09,786
+860,Reels,Popular,High-Quality,1162,93,366,2027-05-10,1621
+861,Reels,Popular,Average,370,50,348,2027-05-11,768
+862,Static Image,Unpopular,Average,198,36,25,2027-05-12,259
+863,Reels,Popular,High-Quality,850,180,397,2027-05-13,1427
+864,Static Image,Popular,High-Quality,362,64,81,2027-05-14,507
+865,Static Image,Unpopular,High-Quality,120,37,52,2027-05-15,209
+866,Static Image,Unpopular,High-Quality,107,61,43,2027-05-16,211
+867,Reels,Unpopular,High-Quality,770,115,283,2027-05-17,1168
+868,Reels,Unpopular,High-Quality,694,145,206,2027-05-18,1045
+869,Carousel,Unpopular,High-Quality,1012,84,270,2027-05-19,1366
+870,Static Image,Unpopular,Average,158,33,66,2027-05-20,257
+871,Reels,Popular,Average,475,133,352,2027-05-21,960
+872,Reels,Unpopular,High-Quality,404,130,258,2027-05-22,792
+873,Reels,Popular,Average,589,67,278,2027-05-23,934
+874,Carousel,Unpopular,Average,784,74,180,2027-05-24,1038
+875,Reels,Popular,High-Quality,440,157,459,2027-05-25,1056
+876,Static Image,Unpopular,High-Quality,93,40,46,2027-05-26,179
+877,Reels,Popular,High-Quality,410,84,406,2027-05-27,900
+878,Static Image,Popular,Average,93,37,79,2027-05-28,209
+879,Reels,Unpopular,High-Quality,364,100,294,2027-05-29,758
+880,Carousel,Unpopular,Average,621,96,241,2027-05-30,958
+881,Carousel,Unpopular,Average,702,52,237,2027-05-31,991
+882,Static Image,Popular,Average,144,38,101,2027-06-01,283
+883,Carousel,Unpopular,Average,649,119,111,2027-06-02,879
+884,Carousel,Popular,High-Quality,1101,130,187,2027-06-03,1418
+885,Reels,Unpopular,High-Quality,360,81,255,2027-06-04,696
+886,Carousel,Popular,Average,1090,177,193,2027-06-05,1460
+887,Carousel,Popular,Average,453,136,135,2027-06-06,724
+888,Static Image,Unpopular,High-Quality,196,36,33,2027-06-07,265
+889,Carousel,Popular,High-Quality,609,211,166,2027-06-08,986
+890,Reels,Unpopular,High-Quality,284,79,277,2027-06-09,640
+891,Carousel,Unpopular,Average,709,131,166,2027-06-10,1006
+892,Carousel,Unpopular,Average,671,109,146,2027-06-11,926
+893,Reels,Unpopular,Average,509,120,182,2027-06-12,811
+894,Reels,Unpopular,Average,513,115,254,2027-06-13,882
+895,Reels,Popular,High-Quality,781,193,249,2027-06-14,1223
+896,Carousel,Unpopular,Average,585,107,111,2027-06-15,803
+897,Static Image,Popular,High-Quality,288,57,39,2027-06-16,384
+898,Static Image,Popular,High-Quality,126,58,49,2027-06-17,233
+899,Carousel,Unpopular,High-Quality,937,102,132,2027-06-18,1171
+900,Carousel,Popular,High-Quality,1333,256,231,2027-06-19,1820
+901,Static Image,Popular,High-Quality,179,18,48,2027-06-20,245
+902,Carousel,Unpopular,Average,357,126,181,2027-06-21,664
+903,Reels,Unpopular,Average,255,82,205,2027-06-22,542
+904,Reels,Popular,High-Quality,754,162,464,2027-06-23,1380
+905,Static Image,Unpopular,Average,92,40,48,2027-06-24,180
+906,Static Image,Popular,High-Quality,317,30,43,2027-06-25,390
+907,Carousel,Unpopular,High-Quality,477,166,272,2027-06-26,915
+908,Carousel,Unpopular,High-Quality,921,168,218,2027-06-27,1307
+909,Reels,Unpopular,High-Quality,569,148,355,2027-06-28,1072
+910,Reels,Popular,High-Quality,951,210,235,2027-06-29,1396
+911,Carousel,Unpopular,High-Quality,886,211,270,2027-06-30,1367
+912,Carousel,Popular,Average,903,120,260,2027-07-01,1283
+913,Static Image,Popular,Average,168,24,52,2027-07-02,244
+914,Static Image,Unpopular,Average,56,22,25,2027-07-03,103
+915,Carousel,Unpopular,High-Quality,728,99,246,2027-07-04,1073
+916,Static Image,Unpopular,High-Quality,241,72,28,2027-07-05,341
+917,Carousel,Unpopular,High-Quality,483,214,214,2027-07-06,911
+918,Reels,Unpopular,High-Quality,601,153,315,2027-07-07,1069
+919,Reels,Popular,Average,858,85,384,2027-07-08,1327
+920,Carousel,Popular,Average,1030,68,230,2027-07-09,1328
+921,Static Image,Popular,High-Quality,140,22,46,2027-07-10,208
+922,Static Image,Unpopular,Average,149,33,76,2027-07-11,258
+923,Reels,Popular,Average,352,74,228,2027-07-12,654
+924,Static Image,Popular,High-Quality,321,18,99,2027-07-13,438
+925,Static Image,Unpopular,High-Quality,244,28,94,2027-07-14,366
+926,Reels,Popular,High-Quality,445,201,327,2027-07-15,973
+927,Reels,Popular,Average,805,102,248,2027-07-16,1155
+928,Static Image,Popular,Average,265,52,66,2027-07-17,383
+929,Carousel,Popular,Average,561,78,270,2027-07-18,909
+930,Reels,Popular,High-Quality,612,207,400,2027-07-19,1219
+931,Static Image,Unpopular,Average,69,13,46,2027-07-20,128
+932,Reels,Unpopular,Average,306,81,154,2027-07-21,541
+933,Reels,Popular,High-Quality,1069,157,315,2027-07-22,1541
+934,Reels,Popular,High-Quality,1103,75,452,2027-07-23,1630
+935,Carousel,Popular,High-Quality,1483,216,166,2027-07-24,1865
+936,Carousel,Unpopular,High-Quality,1032,210,273,2027-07-25,1515
+937,Carousel,Unpopular,Average,750,103,195,2027-07-26,1048
+938,Carousel,Unpopular,High-Quality,481,163,153,2027-07-27,797
+939,Reels,Popular,High-Quality,406,121,432,2027-07-28,959
+940,Carousel,Popular,High-Quality,1193,199,189,2027-07-29,1581
+941,Carousel,Popular,Average,994,180,309,2027-07-30,1483
+942,Reels,Unpopular,Average,468,113,230,2027-07-31,811
+943,Carousel,Unpopular,High-Quality,859,202,274,2027-08-01,1335
+944,Static Image,Unpopular,High-Quality,144,15,93,2027-08-02,252
+945,Carousel,Unpopular,Average,468,66,116,2027-08-03,650
+946,Static Image,Unpopular,High-Quality,175,42,42,2027-08-04,259
+947,Reels,Popular,Average,382,139,339,2027-08-05,860
+948,Carousel,Unpopular,Average,659,114,224,2027-08-06,997
+949,Static Image,Unpopular,Average,74,44,72,2027-08-07,190
+950,Reels,Unpopular,High-Quality,496,138,264,2027-08-08,898
+951,Carousel,Popular,Average,882,80,174,2027-08-09,1136
+952,Carousel,Unpopular,Average,416,83,102,2027-08-10,601
+953,Reels,Popular,Average,784,138,365,2027-08-11,1287
+954,Static Image,Unpopular,Average,153,20,74,2027-08-12,247
+955,Reels,Unpopular,Average,533,72,214,2027-08-13,819
+956,Reels,Unpopular,High-Quality,474,156,304,2027-08-14,934
+957,Carousel,Popular,High-Quality,971,231,234,2027-08-15,1436
+958,Static Image,Popular,High-Quality,331,69,34,2027-08-16,434
+959,Static Image,Unpopular,Average,51,16,39,2027-08-17,106
+960,Reels,Popular,High-Quality,780,129,252,2027-08-18,1161
+961,Reels,Popular,High-Quality,698,78,278,2027-08-19,1054
+962,Carousel,Unpopular,Average,470,90,221,2027-08-20,781
+963,Carousel,Unpopular,High-Quality,616,201,146,2027-08-21,963
+964,Static Image,Unpopular,Average,59,33,53,2027-08-22,145
+965,Reels,Popular,Average,658,138,208,2027-08-23,1004
+966,Static Image,Unpopular,High-Quality,152,75,87,2027-08-24,314
+967,Reels,Popular,Average,393,126,231,2027-08-25,750
+968,Static Image,Unpopular,Average,104,28,73,2027-08-26,205
+969,Static Image,Unpopular,Average,68,11,44,2027-08-27,123
+970,Reels,Popular,High-Quality,1159,100,252,2027-08-28,1511
+971,Reels,Popular,High-Quality,399,73,277,2027-08-29,749
+972,Static Image,Unpopular,High-Quality,131,36,30,2027-08-30,197
+973,Static Image,Popular,High-Quality,195,31,39,2027-08-31,265
+974,Static Image,Popular,High-Quality,367,55,73,2027-09-01,495
+975,Reels,Popular,Average,367,114,369,2027-09-02,850
+976,Reels,Popular,Average,577,103,210,2027-09-03,890
+977,Static Image,Unpopular,High-Quality,136,67,72,2027-09-04,275
+978,Reels,Popular,High-Quality,746,195,376,2027-09-05,1317
+979,Reels,Unpopular,Average,276,48,247,2027-09-06,571
+980,Static Image,Unpopular,Average,158,25,27,2027-09-07,210
+981,Carousel,Unpopular,High-Quality,772,84,136,2027-09-08,992
+982,Reels,Unpopular,High-Quality,538,105,325,2027-09-09,968
+983,Carousel,Unpopular,Average,776,136,180,2027-09-10,1092
+984,Static Image,Unpopular,High-Quality,237,16,42,2027-09-11,295
+985,Static Image,Unpopular,High-Quality,137,37,79,2027-09-12,253
+986,Static Image,Popular,High-Quality,313,51,38,2027-09-13,402
+987,Reels,Unpopular,High-Quality,582,162,235,2027-09-14,979
+988,Static Image,Popular,High-Quality,309,84,75,2027-09-15,468
+989,Reels,Unpopular,High-Quality,687,118,187,2027-09-16,992
+990,Carousel,Unpopular,Average,572,136,209,2027-09-17,917
+991,Static Image,Popular,High-Quality,332,87,69,2027-09-18,488
+992,Reels,Popular,High-Quality,406,117,303,2027-09-19,826
+993,Static Image,Unpopular,High-Quality,104,42,63,2027-09-20,209
+994,Static Image,Popular,High-Quality,344,40,120,2027-09-21,504
+995,Reels,Unpopular,High-Quality,678,84,228,2027-09-22,990
+996,Static Image,Popular,High-Quality,133,31,39,2027-09-23,203
+997,Static Image,Unpopular,High-Quality,128,46,75,2027-09-24,249
+998,Reels,Popular,High-Quality,581,202,427,2027-09-25,1210
+999,Carousel,Unpopular,High-Quality,764,178,248,2027-09-26,1190
+1000,Reels,Popular,Average,591,144,340,2027-09-27,1075
