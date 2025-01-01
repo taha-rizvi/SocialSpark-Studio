@@ -9,16 +9,19 @@ def generate_dates(start_date, num_dates):
 
 # Simulate the dataset
 post_types = ['Carousel', 'Reels', 'Static Image']
+user_types = ['Celebrity', 'Normal User']
+content_quality = ['High-Quality', 'Average']
 num_posts = 100  # Number of posts
 
-# Generate random data
 data = []
 start_date = datetime(2025, 1, 1)
 
 for i in range(num_posts):
     post_type = random.choice(post_types)
-
-    # Adjust engagement based on post type
+    user_type = random.choice(user_types)
+    quality = random.choice(content_quality)
+    
+    # Base engagement ranges
     if post_type == 'Carousel':
         likes = random.randint(300, 800)
         shares = random.randint(50, 150)
@@ -32,15 +35,28 @@ for i in range(num_posts):
         shares = random.randint(10, 50)
         comments = random.randint(20, 80)
     
+    # Adjustments for user type and content quality
+    if user_type == 'Celebrity':
+        likes = int(likes * 1.5)  # Celebrities typically get more likes
+        shares = int(shares * 1.2)  # Slightly more shares
+        comments = int(comments * 1.3)  # Higher comments
+    if quality == 'High-Quality':
+        likes = int(likes * 1.3)  # High-quality content attracts more likes
+        shares = int(shares * 1.5)  # High-quality content is more shareable
+        comments = int(comments * 1.2)  # Slightly higher comments
+
     date = generate_dates(start_date, num_posts)[i]
     engagement = likes + shares + comments
-    data.append([i+1, post_type, likes, shares, comments, date, engagement])
+    data.append([i+1, post_type, user_type, quality, likes, shares, comments, date, engagement])
 
 # Create DataFrame
-df = pd.DataFrame(data, columns=["Post ID", "Post Type", "Likes", "Shares", "Comments", "Date", "Engagement"])
+df = pd.DataFrame(data, columns=[
+    "Post ID", "Post Type", "User Type", "Content Quality", 
+    "Likes", "Shares", "Comments", "Date", "Engagement"
+])
 
 # Save to CSV
-df.to_csv("social_media_engagement.csv", index=False)
+df.to_csv("realistic_social_media_engagement.csv", index=False)
 
 # Display the first few rows
 print(df.head())

@@ -1,0 +1,101 @@
+Post ID,Post Type,User Type,Content Quality,Likes,Shares,Comments,Date,Engagement
+1,Static Image,Celebrity,High-Quality,191,75,94,2025-01-01,360
+2,Static Image,Normal User,Average,102,26,41,2025-01-02,169
+3,Static Image,Normal User,High-Quality,169,66,69,2025-01-03,304
+4,Carousel,Celebrity,Average,1134,88,245,2025-01-04,1467
+5,Carousel,Celebrity,Average,465,78,228,2025-01-05,771
+6,Carousel,Celebrity,Average,1156,62,174,2025-01-06,1392
+7,Static Image,Normal User,Average,117,39,48,2025-01-07,204
+8,Static Image,Celebrity,High-Quality,253,37,60,2025-01-08,350
+9,Reels,Celebrity,Average,481,104,237,2025-01-09,822
+10,Carousel,Normal User,Average,670,111,106,2025-01-10,887
+11,Static Image,Celebrity,High-Quality,374,72,52,2025-01-11,498
+12,Static Image,Normal User,Average,131,48,39,2025-01-12,218
+13,Static Image,Celebrity,High-Quality,288,40,70,2025-01-13,398
+14,Reels,Celebrity,High-Quality,596,208,403,2025-01-14,1207
+15,Carousel,Celebrity,High-Quality,590,240,361,2025-01-15,1191
+16,Static Image,Celebrity,High-Quality,374,31,97,2025-01-16,502
+17,Reels,Normal User,High-Quality,482,94,278,2025-01-17,854
+18,Carousel,Normal User,High-Quality,790,147,247,2025-01-18,1184
+19,Reels,Celebrity,Average,867,138,248,2025-01-19,1253
+20,Static Image,Celebrity,Average,222,42,59,2025-01-20,323
+21,Static Image,Celebrity,High-Quality,340,75,75,2025-01-21,490
+22,Carousel,Normal User,Average,426,119,157,2025-01-22,702
+23,Carousel,Normal User,High-Quality,451,148,190,2025-01-23,789
+24,Reels,Normal User,Average,302,101,187,2025-01-24,590
+25,Carousel,Normal User,High-Quality,774,91,292,2025-01-25,1157
+26,Static Image,Normal User,Average,135,30,29,2025-01-26,194
+27,Reels,Normal User,Average,446,85,293,2025-01-27,824
+28,Carousel,Normal User,High-Quality,877,190,211,2025-01-28,1278
+29,Carousel,Normal User,Average,553,128,113,2025-01-29,794
+30,Carousel,Celebrity,High-Quality,1552,109,234,2025-01-30,1895
+31,Static Image,Celebrity,Average,108,20,35,2025-01-31,163
+32,Carousel,Normal User,Average,575,83,211,2025-02-01,869
+33,Reels,Normal User,High-Quality,647,88,330,2025-02-02,1065
+34,Reels,Celebrity,Average,762,79,292,2025-02-03,1133
+35,Carousel,Celebrity,Average,741,141,314,2025-02-04,1196
+36,Reels,Normal User,Average,323,102,192,2025-02-05,617
+37,Static Image,Celebrity,High-Quality,347,84,84,2025-02-06,515
+38,Reels,Normal User,Average,228,94,188,2025-02-07,510
+39,Static Image,Celebrity,Average,144,18,76,2025-02-08,238
+40,Static Image,Normal User,Average,93,24,62,2025-02-09,179
+41,Carousel,Normal User,High-Quality,868,162,126,2025-02-10,1156
+42,Static Image,Celebrity,Average,222,32,48,2025-02-11,302
+43,Carousel,Celebrity,High-Quality,811,112,169,2025-02-12,1092
+44,Reels,Celebrity,High-Quality,780,156,397,2025-02-13,1333
+45,Static Image,Normal User,Average,176,30,45,2025-02-14,251
+46,Carousel,Normal User,Average,318,93,196,2025-02-15,607
+47,Carousel,Normal User,High-Quality,625,136,249,2025-02-16,1010
+48,Reels,Celebrity,Average,438,105,305,2025-02-17,848
+49,Carousel,Celebrity,Average,549,75,300,2025-02-18,924
+50,Carousel,Normal User,High-Quality,540,102,230,2025-02-19,872
+51,Static Image,Celebrity,Average,142,24,52,2025-02-20,218
+52,Carousel,Celebrity,Average,822,69,253,2025-02-21,1144
+53,Static Image,Normal User,High-Quality,204,40,81,2025-02-22,325
+54,Reels,Normal User,High-Quality,434,168,190,2025-02-23,792
+55,Static Image,Celebrity,High-Quality,317,36,120,2025-02-24,473
+56,Reels,Normal User,High-Quality,614,166,351,2025-02-25,1131
+57,Carousel,Normal User,High-Quality,588,196,218,2025-02-26,1002
+58,Static Image,Celebrity,Average,175,26,40,2025-02-27,241
+59,Static Image,Normal User,High-Quality,180,49,62,2025-02-28,291
+60,Static Image,Normal User,Average,183,33,66,2025-03-01,282
+61,Static Image,Celebrity,Average,228,50,101,2025-03-02,379
+62,Reels,Celebrity,Average,462,111,366,2025-03-03,939
+63,Static Image,Normal User,High-Quality,182,16,60,2025-03-04,258
+64,Carousel,Normal User,High-Quality,821,87,224,2025-03-05,1132
+65,Carousel,Celebrity,High-Quality,1497,159,261,2025-03-06,1917
+66,Static Image,Celebrity,Average,181,50,92,2025-03-07,323
+67,Reels,Celebrity,Average,802,118,224,2025-03-08,1144
+68,Static Image,Normal User,Average,85,44,63,2025-03-09,192
+69,Static Image,Celebrity,High-Quality,274,49,102,2025-03-10,425
+70,Reels,Normal User,High-Quality,759,96,250,2025-03-11,1105
+71,Carousel,Celebrity,High-Quality,777,186,378,2025-03-12,1341
+72,Carousel,Normal User,Average,553,117,211,2025-03-13,881
+73,Static Image,Celebrity,High-Quality,339,46,69,2025-03-14,454
+74,Static Image,Normal User,Average,74,32,64,2025-03-15,170
+75,Static Image,Celebrity,Average,202,60,61,2025-03-16,323
+76,Reels,Celebrity,High-Quality,397,120,291,2025-03-17,808
+77,Reels,Celebrity,High-Quality,551,100,327,2025-03-18,978
+78,Reels,Normal User,Average,404,88,240,2025-03-19,732
+79,Carousel,Normal User,Average,518,74,206,2025-03-20,798
+80,Carousel,Normal User,Average,470,79,111,2025-03-21,660
+81,Static Image,Celebrity,Average,274,16,53,2025-03-22,343
+82,Carousel,Celebrity,High-Quality,741,96,333,2025-03-23,1170
+83,Static Image,Normal User,High-Quality,88,51,84,2025-03-24,223
+84,Reels,Celebrity,Average,468,141,276,2025-03-25,885
+85,Reels,Normal User,High-Quality,527,108,262,2025-03-26,897
+86,Reels,Normal User,Average,357,104,260,2025-03-27,721
+87,Carousel,Celebrity,Average,592,75,163,2025-03-28,830
+88,Reels,Celebrity,Average,610,70,387,2025-03-29,1067
+89,Reels,Normal User,Average,407,73,273,2025-03-30,753
+90,Static Image,Celebrity,Average,228,15,71,2025-03-31,314
+91,Reels,Normal User,High-Quality,742,172,248,2025-04-01,1162
+92,Reels,Normal User,High-Quality,715,73,211,2025-04-02,999
+93,Carousel,Normal User,Average,435,104,123,2025-04-03,662
+94,Carousel,Normal User,High-Quality,413,177,144,2025-04-04,734
+95,Carousel,Normal User,High-Quality,488,94,220,2025-04-05,802
+96,Reels,Celebrity,High-Quality,1092,81,423,2025-04-06,1596
+97,Static Image,Celebrity,High-Quality,165,63,81,2025-04-07,309
+98,Reels,Celebrity,Average,771,62,341,2025-04-08,1174
+99,Static Image,Celebrity,High-Quality,218,64,66,2025-04-09,348
+100,Reels,Normal User,Average,257,78,223,2025-04-10,558
